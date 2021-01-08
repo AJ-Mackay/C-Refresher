@@ -1,0 +1,12 @@
+C:\Users\Paul Mackay\Desktop\C#Refresher\01_Intro\InputValues\InputValues\bin\Debug\netcoreapp3.1\InputValues.exe
+C:\Users\Paul Mackay\Desktop\C#Refresher\01_Intro\InputValues\InputValues\bin\Debug\netcoreapp3.1\InputValues.deps.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\01_Intro\InputValues\InputValues\bin\Debug\netcoreapp3.1\InputValues.runtimeconfig.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\01_Intro\InputValues\InputValues\bin\Debug\netcoreapp3.1\InputValues.runtimeconfig.dev.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\01_Intro\InputValues\InputValues\bin\Debug\netcoreapp3.1\InputValues.dll
+C:\Users\Paul Mackay\Desktop\C#Refresher\01_Intro\InputValues\InputValues\bin\Debug\netcoreapp3.1\InputValues.pdb
+C:\Users\Paul Mackay\Desktop\C#Refresher\01_Intro\InputValues\InputValues\obj\Debug\netcoreapp3.1\InputValues.AssemblyInfoInputs.cache
+C:\Users\Paul Mackay\Desktop\C#Refresher\01_Intro\InputValues\InputValues\obj\Debug\netcoreapp3.1\InputValues.AssemblyInfo.cs
+C:\Users\Paul Mackay\Desktop\C#Refresher\01_Intro\InputValues\InputValues\obj\Debug\netcoreapp3.1\InputValues.csproj.CoreCompileInputs.cache
+C:\Users\Paul Mackay\Desktop\C#Refresher\01_Intro\InputValues\InputValues\obj\Debug\netcoreapp3.1\InputValues.dll
+C:\Users\Paul Mackay\Desktop\C#Refresher\01_Intro\InputValues\InputValues\obj\Debug\netcoreapp3.1\InputValues.pdb
+C:\Users\Paul Mackay\Desktop\C#Refresher\01_Intro\InputValues\InputValues\obj\Debug\netcoreapp3.1\InputValues.genruntimeconfig.cache
