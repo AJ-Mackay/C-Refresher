@@ -1,0 +1,12 @@
+C:\Users\Paul Mackay\Desktop\C#Refresher\06_Loops\WhileDoWhile\WhileDoWhile\bin\Debug\netcoreapp3.1\WhileDoWhile.exe
+C:\Users\Paul Mackay\Desktop\C#Refresher\06_Loops\WhileDoWhile\WhileDoWhile\bin\Debug\netcoreapp3.1\WhileDoWhile.deps.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\06_Loops\WhileDoWhile\WhileDoWhile\bin\Debug\netcoreapp3.1\WhileDoWhile.runtimeconfig.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\06_Loops\WhileDoWhile\WhileDoWhile\bin\Debug\netcoreapp3.1\WhileDoWhile.runtimeconfig.dev.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\06_Loops\WhileDoWhile\WhileDoWhile\bin\Debug\netcoreapp3.1\WhileDoWhile.dll
+C:\Users\Paul Mackay\Desktop\C#Refresher\06_Loops\WhileDoWhile\WhileDoWhile\bin\Debug\netcoreapp3.1\WhileDoWhile.pdb
+C:\Users\Paul Mackay\Desktop\C#Refresher\06_Loops\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.AssemblyInfoInputs.cache
+C:\Users\Paul Mackay\Desktop\C#Refresher\06_Loops\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.AssemblyInfo.cs
+C:\Users\Paul Mackay\Desktop\C#Refresher\06_Loops\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Paul Mackay\Desktop\C#Refresher\06_Loops\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.dll
+C:\Users\Paul Mackay\Desktop\C#Refresher\06_Loops\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.pdb
+C:\Users\Paul Mackay\Desktop\C#Refresher\06_Loops\WhileDoWhile\WhileDoWhile\obj\Debug\netcoreapp3.1\WhileDoWhile.genruntimeconfig.cache
