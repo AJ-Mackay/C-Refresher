@@ -1,0 +1,12 @@
+C:\Users\Paul Mackay\Desktop\C#Refresher\04_Maths\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.exe
+C:\Users\Paul Mackay\Desktop\C#Refresher\04_Maths\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.deps.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\04_Maths\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.runtimeconfig.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\04_Maths\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.runtimeconfig.dev.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\04_Maths\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.dll
+C:\Users\Paul Mackay\Desktop\C#Refresher\04_Maths\ArithmeticOperators\ArithmeticOperators\bin\Debug\netcoreapp3.1\ArithmeticOperators.pdb
+C:\Users\Paul Mackay\Desktop\C#Refresher\04_Maths\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.AssemblyInfoInputs.cache
+C:\Users\Paul Mackay\Desktop\C#Refresher\04_Maths\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.AssemblyInfo.cs
+C:\Users\Paul Mackay\Desktop\C#Refresher\04_Maths\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\Paul Mackay\Desktop\C#Refresher\04_Maths\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.dll
+C:\Users\Paul Mackay\Desktop\C#Refresher\04_Maths\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.pdb
+C:\Users\Paul Mackay\Desktop\C#Refresher\04_Maths\ArithmeticOperators\ArithmeticOperators\obj\Debug\netcoreapp3.1\ArithmeticOperators.genruntimeconfig.cache
