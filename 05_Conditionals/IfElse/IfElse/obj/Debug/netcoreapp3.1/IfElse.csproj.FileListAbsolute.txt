@@ -1,0 +1,12 @@
+C:\Users\Paul Mackay\Desktop\C#Refresher\05_Conditionals\IfElse\IfElse\bin\Debug\netcoreapp3.1\IfElse.exe
+C:\Users\Paul Mackay\Desktop\C#Refresher\05_Conditionals\IfElse\IfElse\bin\Debug\netcoreapp3.1\IfElse.deps.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\05_Conditionals\IfElse\IfElse\bin\Debug\netcoreapp3.1\IfElse.runtimeconfig.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\05_Conditionals\IfElse\IfElse\bin\Debug\netcoreapp3.1\IfElse.runtimeconfig.dev.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\05_Conditionals\IfElse\IfElse\bin\Debug\netcoreapp3.1\IfElse.dll
+C:\Users\Paul Mackay\Desktop\C#Refresher\05_Conditionals\IfElse\IfElse\bin\Debug\netcoreapp3.1\IfElse.pdb
+C:\Users\Paul Mackay\Desktop\C#Refresher\05_Conditionals\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.AssemblyInfoInputs.cache
+C:\Users\Paul Mackay\Desktop\C#Refresher\05_Conditionals\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.AssemblyInfo.cs
+C:\Users\Paul Mackay\Desktop\C#Refresher\05_Conditionals\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Paul Mackay\Desktop\C#Refresher\05_Conditionals\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.dll
+C:\Users\Paul Mackay\Desktop\C#Refresher\05_Conditionals\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.pdb
+C:\Users\Paul Mackay\Desktop\C#Refresher\05_Conditionals\IfElse\IfElse\obj\Debug\netcoreapp3.1\IfElse.genruntimeconfig.cache
