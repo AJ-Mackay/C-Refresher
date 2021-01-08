@@ -1,0 +1,12 @@
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\StringFormatting\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.exe
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\StringFormatting\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.deps.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\StringFormatting\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.runtimeconfig.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\StringFormatting\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.runtimeconfig.dev.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\StringFormatting\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.dll
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\StringFormatting\StringFormatting\bin\Debug\netcoreapp3.1\StringFormatting.pdb
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\StringFormatting\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.AssemblyInfoInputs.cache
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\StringFormatting\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.AssemblyInfo.cs
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\StringFormatting\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\StringFormatting\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.dll
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\StringFormatting\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.pdb
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\StringFormatting\StringFormatting\obj\Debug\netcoreapp3.1\StringFormatting.genruntimeconfig.cache
