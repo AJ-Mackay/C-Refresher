@@ -1,0 +1,12 @@
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\TheConsole\TheConsole\bin\Debug\netcoreapp3.1\TheConsole.exe
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\TheConsole\TheConsole\bin\Debug\netcoreapp3.1\TheConsole.deps.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\TheConsole\TheConsole\bin\Debug\netcoreapp3.1\TheConsole.runtimeconfig.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\TheConsole\TheConsole\bin\Debug\netcoreapp3.1\TheConsole.runtimeconfig.dev.json
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\TheConsole\TheConsole\bin\Debug\netcoreapp3.1\TheConsole.dll
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\TheConsole\TheConsole\bin\Debug\netcoreapp3.1\TheConsole.pdb
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\TheConsole\TheConsole\obj\Debug\netcoreapp3.1\TheConsole.AssemblyInfoInputs.cache
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\TheConsole\TheConsole\obj\Debug\netcoreapp3.1\TheConsole.AssemblyInfo.cs
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\TheConsole\TheConsole\obj\Debug\netcoreapp3.1\TheConsole.csproj.CoreCompileInputs.cache
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\TheConsole\TheConsole\obj\Debug\netcoreapp3.1\TheConsole.dll
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\TheConsole\TheConsole\obj\Debug\netcoreapp3.1\TheConsole.pdb
+C:\Users\Paul Mackay\Desktop\C#Refresher\03_Console\TheConsole\TheConsole\obj\Debug\netcoreapp3.1\TheConsole.genruntimeconfig.cache
